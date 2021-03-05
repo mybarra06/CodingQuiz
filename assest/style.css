@@ -1,0 +1,19 @@
+    .container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+#start-prompt {
+    text-align: center;
+}
+
+#timer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 30px;
+    color: black;
+    
+     
+}
